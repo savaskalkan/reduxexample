@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] C:\Users\savas\Desktop\redux\reduxdeneme\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\c5be725d08b18ad1bb2eb28a7d12b8b3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\26bdbeb7a7521d8b45104b86a02a4ba5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\81179f627f783a1fa78fa8c742d91fdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4a6b2abc9dfc2ccff4fd046277e815d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\1b8507bfa56730278df446b975aa53d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\17b635073fed79727aeae26c2cda24d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\12b37852c7a2c002b09ca7d86b06f3d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ffb40429f9db819a2476f37447dca39d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\23eaaf0113b0e70c3c3004adbe4a265f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\7cdc1e2d09ef31caddc001a0482ebd36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\d45ac77189b2c4d3b4abb07f0fcab46a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\b48a689ad5811db32af721d4201e156d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ed7cf38c5cdd86fdec87810ec659551f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\775598d34149148f6b3ba937f89512b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\3c04c8aff6a0b9b592394cbc87b38ea3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6960e3effab4e5e7a0dfcb0692e980e3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\bc4b3761e810b09fcbef20266ca5e2e0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\11a5301a37e0c354a3ee88360ef8e136\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\e8fde41cdfb73960f771259e4b070ea4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4b147ecff3857c5fa3d6e81d8b1e81dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\79a7b8fcc3cf6ce165fdc2b5b7d16d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\7fa53729f26664fe05c2f1e6e9502155\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\058e434b5feabeefdff95b154ba2ee81\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ca71d7609264bbc8a933aa1212701460\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\217d554ea2a835b2b5983a96a4f8451a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6aaf049bdba9495806a112a22b6dff99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\696e81156c2008b0c00e76cf12826c74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\67d13eee9f838aebdca39b2b27c90bc1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\8b01f9d7cc5a6c5639b29a42a0c130dd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\e65b8a15d231a6e91cb8a1bd1daea8d7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6482b0e79f47f9f7674d5773a348caf7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4a0b340071da04efb015cee870bb1e23\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\60124176de06082ccc2157253b05f583\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\8597111df7be3abe35e7cc662ed4266b\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\c5be725d08b18ad1bb2eb28a7d12b8b3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\c5be725d08b18ad1bb2eb28a7d12b8b3\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6960e3effab4e5e7a0dfcb0692e980e3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6960e3effab4e5e7a0dfcb0692e980e3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\bc4b3761e810b09fcbef20266ca5e2e0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\bc4b3761e810b09fcbef20266ca5e2e0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\60124176de06082ccc2157253b05f583\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\60124176de06082ccc2157253b05f583\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6960e3effab4e5e7a0dfcb0692e980e3\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.reduxdeneme.MainActivity
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\savas\Desktop\redux\reduxdeneme\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\savas\Desktop\redux\reduxdeneme\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\c5be725d08b18ad1bb2eb28a7d12b8b3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\c5be725d08b18ad1bb2eb28a7d12b8b3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\26bdbeb7a7521d8b45104b86a02a4ba5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\26bdbeb7a7521d8b45104b86a02a4ba5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\81179f627f783a1fa78fa8c742d91fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\81179f627f783a1fa78fa8c742d91fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4a6b2abc9dfc2ccff4fd046277e815d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4a6b2abc9dfc2ccff4fd046277e815d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\1b8507bfa56730278df446b975aa53d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\1b8507bfa56730278df446b975aa53d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\17b635073fed79727aeae26c2cda24d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\17b635073fed79727aeae26c2cda24d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\12b37852c7a2c002b09ca7d86b06f3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\12b37852c7a2c002b09ca7d86b06f3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ffb40429f9db819a2476f37447dca39d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ffb40429f9db819a2476f37447dca39d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\23eaaf0113b0e70c3c3004adbe4a265f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\23eaaf0113b0e70c3c3004adbe4a265f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\7cdc1e2d09ef31caddc001a0482ebd36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\7cdc1e2d09ef31caddc001a0482ebd36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\d45ac77189b2c4d3b4abb07f0fcab46a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\d45ac77189b2c4d3b4abb07f0fcab46a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\b48a689ad5811db32af721d4201e156d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\b48a689ad5811db32af721d4201e156d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ed7cf38c5cdd86fdec87810ec659551f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ed7cf38c5cdd86fdec87810ec659551f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\775598d34149148f6b3ba937f89512b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\775598d34149148f6b3ba937f89512b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\3c04c8aff6a0b9b592394cbc87b38ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\3c04c8aff6a0b9b592394cbc87b38ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6960e3effab4e5e7a0dfcb0692e980e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6960e3effab4e5e7a0dfcb0692e980e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\bc4b3761e810b09fcbef20266ca5e2e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\bc4b3761e810b09fcbef20266ca5e2e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\11a5301a37e0c354a3ee88360ef8e136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\11a5301a37e0c354a3ee88360ef8e136\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\e8fde41cdfb73960f771259e4b070ea4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\e8fde41cdfb73960f771259e4b070ea4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4b147ecff3857c5fa3d6e81d8b1e81dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4b147ecff3857c5fa3d6e81d8b1e81dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\79a7b8fcc3cf6ce165fdc2b5b7d16d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\79a7b8fcc3cf6ce165fdc2b5b7d16d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\7fa53729f26664fe05c2f1e6e9502155\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\7fa53729f26664fe05c2f1e6e9502155\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\058e434b5feabeefdff95b154ba2ee81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\058e434b5feabeefdff95b154ba2ee81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ca71d7609264bbc8a933aa1212701460\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\ca71d7609264bbc8a933aa1212701460\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\217d554ea2a835b2b5983a96a4f8451a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\217d554ea2a835b2b5983a96a4f8451a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6aaf049bdba9495806a112a22b6dff99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6aaf049bdba9495806a112a22b6dff99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\696e81156c2008b0c00e76cf12826c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\696e81156c2008b0c00e76cf12826c74\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\67d13eee9f838aebdca39b2b27c90bc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\67d13eee9f838aebdca39b2b27c90bc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\8b01f9d7cc5a6c5639b29a42a0c130dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\8b01f9d7cc5a6c5639b29a42a0c130dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\e65b8a15d231a6e91cb8a1bd1daea8d7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\e65b8a15d231a6e91cb8a1bd1daea8d7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6482b0e79f47f9f7674d5773a348caf7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\6482b0e79f47f9f7674d5773a348caf7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4a0b340071da04efb015cee870bb1e23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\4a0b340071da04efb015cee870bb1e23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\60124176de06082ccc2157253b05f583\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\60124176de06082ccc2157253b05f583\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\8597111df7be3abe35e7cc662ed4266b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\savas\.gradle\caches\transforms-2\files-2.1\8597111df7be3abe35e7cc662ed4266b\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\savas\Desktop\redux\reduxdeneme\android\app\src\debug\AndroidManifest.xml:5:22-75
